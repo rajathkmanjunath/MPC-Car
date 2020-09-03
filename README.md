@@ -1,2 +1,1 @@
-# MPC-Car
-Model Predictive Controller for NYU Self Drive.
+## Model Predictive Controller for New York University's Self Driving Car.
